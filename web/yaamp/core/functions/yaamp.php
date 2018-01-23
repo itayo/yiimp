@@ -170,6 +170,7 @@ function getAlgoColors($algo)
 		'whirlpool'	=> '#d0e0e0',
 		'yescrypt'	=> '#e0d0e0',
 		'zr5'		=> '#d0b0d0',
+		'phi1612'	=> '#ffc600',
 
 		'MN'		=> '#ffffff', // MasterNode Earnings
 		'PoS'		=> '#ffffff'  // Stake
@@ -238,6 +239,7 @@ function getAlgoPort($algo)
 		'polytimos'	=> 8463,
 		'skunk'		=> 8433,
 		'tribus'	=> 8533,
+		'phi1612'	=> 6667,
 	);
 
 	global $configCustomPorts;
